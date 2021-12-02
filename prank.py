@@ -1,13 +1,13 @@
-name=input("what's your name ??")
+name=input("what's your name ??\n ➡️ ➡️ ➡️")
 x=name.title()
-print(f"#1.Your name is \t{x} ")
+print(f"#1.Your name is \nMR\t{x} ")
 print('_______________________')
 y=len(x)
 print(" 🐲 🐲 🐲 🐲 🐲 🐲 🐲 ")
 print(f"#2.length of your name is {y}")
 print("#########################")
 print(f"#3.hahhaha can you imagine\n reverse of your name is {x[-1::-1]}")
-age =input("What's your age? \n==> ")
+age =input("whats your age? \n==> ")
 age=int(age)
 if age>=18:
 	print("you are 18+ bro 😎 😎 😎")
@@ -20,4 +20,4 @@ if x=='no':
 		print("you are hacked 🐲 🕥 🐲")
 		print("your system is cracked 🐲 🐲 🐲")
 elif x=='yes':
-	print('you are safe dude .\n..wanna friend with me ??\nthen my instagram profile=> ✓✓✓✓✓https://www.instagram.com/kunaldiwan1405')
+	print('you are safe dude .\n..wanna friend with me ??\nthen my insta profile is=> ✓✓✓✓✓https://www.instagram.com/kunaldiwan1405')
